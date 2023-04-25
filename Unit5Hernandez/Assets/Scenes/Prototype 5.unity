@@ -511,7 +511,7 @@ GameObject:
   - component: {fileID: 692424995}
   - component: {fileID: 692424994}
   m_Layer: 0
-  m_Name: gamemanager
+  m_Name: Game Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -534,6 +534,7 @@ MonoBehaviour:
   - {fileID: 481053816163522126, guid: 2321e7965dbbea842993437d18238bee, type: 3}
   - {fileID: 2810484039937886935, guid: 4bd069e689efdae40a826f45c7a42446, type: 3}
   - {fileID: 3021945361010481693, guid: 8f0bf694aa8d41148af2fceab0f22112, type: 3}
+  scoreText: {fileID: 555031519}
 --- !u!4 &692424995
 Transform:
   m_ObjectHideFlags: 0
